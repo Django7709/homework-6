@@ -19,7 +19,7 @@ if (os == 1 && clientDeviseYear < 2015){
     System.out.println(" Установите обычную версию приложения для android ");
 } else if (os == 0 && clientDeviseYear <= 2015){
     System.out.println(" Установите облегченную версию приложения для ios ");
-} else if {os == 0 && clientDeviseYear >= 2015){
+} else if (os == 0 && clientDeviseYear >= 2015){
     System.out.println(" Установите обычную версию приложения для ios ");
 }
 // задача 3
