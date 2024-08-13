@@ -66,4 +66,3 @@ switch (mn){
 default:
         System.out.println(" Неверный номер месяца ");
 }
-}
