@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-    }
+
     // задача1
 int os = 0;
 if(os ==0){
@@ -66,4 +66,4 @@ switch(mn){
         default:
             System.out.println(" Неверный номер месяца ");
 }
-}
+}}
